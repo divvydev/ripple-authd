@@ -1,6 +1,6 @@
-# ripple-auth
+# divvy-auth
 
-The [Ripple client](https://github.com/ripple/ripple-client) uses `ripple-authd` servers for [peer-assisted key derivation](http://justmoon.github.io/pakdf/).
+The [Divvy client](https://github.com/xdv/divvy-client) uses `divvy-authd` servers for [peer-assisted key derivation](http://justmoon.github.io/pakdf/).
 
 # Setup
 
